@@ -11,6 +11,21 @@ TwinCode is a web application that allows you to review your code with dual pers
 - Scalability: Advises on how to make code adaptable for future growth.
 - Readability & Maintainability: Ensures that the code is easy to understand and modify.
 
+## Screenshots
+
+### Home Page
+![Home Page](Frontend/public/homepage.png)
+
+### Code Review
+![Code Review](Frontend/public/codereview.png)
+
+
+## Usage
+
+1. Paste your code in the left editor pane.
+2. Click the "Review" button to get a detailed code review in the right pane.
+
+
 ## Project Structure
 
 ```
@@ -93,18 +108,7 @@ Frontend/
 
 4. Open your browser and navigate to `http://localhost:3000`.
 
-## Usage
 
-1. Paste your code in the left editor pane.
-2. Click the "Review" button to get a detailed code review in the right pane.
-
-## Screenshots
-
-### Home Page
-![Home Page](Frontend/public/homepage.png)
-
-### Code Review
-![Code Review](Frontend/public/codereview.png)
 
 
 
