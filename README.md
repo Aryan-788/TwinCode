@@ -101,10 +101,10 @@ Frontend/
 ## Screenshots
 
 ### Home Page
-![Home Page](public/homepage.png)
+![Home Page](Frontend/public/homepage.png)
 
 ### Code Review
-![Code Review](public/codereview.png)
+![Code Review](Frontend/public/codereview.png)
 
 
 
